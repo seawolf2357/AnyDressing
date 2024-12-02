@@ -1,3 +1,3 @@
-# DEADiff
+# AnyDressing
 
-This is the project page for CVPR 2024 paper "DEADiff: An Efficient Stylization Diffusion Model with Disentangled Representations".
+This is the project page for the paper "AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models".
