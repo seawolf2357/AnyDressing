@@ -8,7 +8,7 @@
 [Xinghui Li](https://github.com/Crayon-Shinchan), [Qichao Sun](https://github.com/sun631998316), [Pengze Zhang](https://github.com/PangzeCheung), [Fulong Ye](https://scholar.google.com/citations?user=-BbQ5VgAAAAJ&hl=en&oi=ao), [Zhichao Liao](https://scholar.google.com.hk/citations?user=4eRwbOEAAAAJ&hl=zh-CN), [Wanquan Feng](https://scholar.google.com/citations?hl=zh-CN&user=na2akZYAAAAJ&view_op=list_works&sortby=pubdate)✉, [Songtao Zhao](https://crayon-shinchan.github.io/AnyDressing.github.io/)✉, [Qian He](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&authuser=1&user=9rWWCgUAAAAJ) <br />
 
 
-### [[`Project Page`](hhttps://crayon-shinchan.github.io/AnyDressing/)][[`arxiv`](https://arxiv.org/abs/2405.19671)][[`Paper`](https://arxiv.org/pdf/2405.19671)]
+### [[`Project Page`](https://crayon-shinchan.github.io/AnyDressing/)][[`arxiv`](https://arxiv.org/abs/2405.19671)][[`Paper`](https://arxiv.org/pdf/2405.19671)]
 </div>
 
 
