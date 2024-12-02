@@ -78,37 +78,37 @@ $(document).ready(function() {
 })
 
 
-document.addEventListener('DOMContentLoaded', () => {
-  const carousels = document.querySelectorAll('.carousel.results-carousel');
+// document.addEventListener('DOMContentLoaded', () => {
+//   const carousels = document.querySelectorAll('.carousel.results-carousel');
 
-  carousels.forEach(carousel => {
-    const items = carousel.querySelectorAll('.item');
-    const totalItems = items.length;
-    let currentIndex = 0;
+//   carousels.forEach(carousel => {
+//     const items = carousel.querySelectorAll('.item');
+//     const totalItems = items.length;
+//     let currentIndex = 0;
 
-    // Clone the first item and append it to the end
-    const firstItemClone = items[0].cloneNode(true);
-    carousel.appendChild(firstItemClone);
+//     // Clone the first item and append it to the end
+//     const firstItemClone = items[0].cloneNode(true);
+//     carousel.appendChild(firstItemClone);
 
-    function showNextItem() {
-      currentIndex++;
-      items.forEach((item, index) => {
-        item.style.transition = 'transform 0.5s ease-in-out';
-        item.style.transform = `translateX(-${100 * currentIndex}%)`;
-      });
+//     function showNextItem() {
+//       currentIndex++;
+//       items.forEach((item, index) => {
+//         item.style.transition = 'transform 0.5s ease-in-out';
+//         item.style.transform = `translateX(-${100 * currentIndex}%)`;
+//       });
 
-      // If we've reached the cloned first item, reset to the original first item
-      if (currentIndex === totalItems) {
-        setTimeout(() => {
-          items.forEach((item, index) => {
-            item.style.transition = 'none';
-            item.style.transform = `translateX(0)`;
-          });
-          currentIndex = 0;
-        }, 500); // Match the transition duration
-      }
-    }
+//       // If we've reached the cloned first item, reset to the original first item
+//       if (currentIndex === totalItems) {
+//         setTimeout(() => {
+//           items.forEach((item, index) => {
+//             item.style.transition = 'none';
+//             item.style.transform = `translateX(0)`;
+//           });
+//           currentIndex = 0;
+//         }, 500); // Match the transition duration
+//       }
+//     }
 
-    setInterval(showNextItem, 3000); // 每3秒切换一次
-  });
-});
+//     setInterval(showNextItem, 3000); // 每3秒切换一次
+//   });
+// });
