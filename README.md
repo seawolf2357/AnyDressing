@@ -42,11 +42,11 @@ Moreover, <b>Garment-Enhanced Texture Learning (GTL)</b> strategy further enhanc
 ## 🖊 Citation
 If you find this project useful in your research, please consider cite:
 
-<!-- ```
-@article{xiang2024gaussianroom,
-  title={GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction},
-  author={Xiang, Haodong and Li, Xinghui and Lai, Xiansong and Zhang, Wanting and Liao, Zhichao and Cheng, Kai and Liu, Xueping},
-  journal={arXiv preprint arXiv:2405.19671},
-  year={2024}
+```
+@article{li2024anydressing,
+        title={AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models},
+        author={Li, Xinghui and Sun, Qi Chao and Zhang, Pengze and Ye, Fulong and Liao, Zhichao and Feng, Wanquan and Zhao, Songtao and He, Qian},
+        journal={arXiv preprint arXiv:XXX},
+        year={2024}
 }
-``` -->
+```
