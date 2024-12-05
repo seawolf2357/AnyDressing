@@ -40,7 +40,7 @@ Thank you all for your attention. We are actively cleaning our code and will ope
 
     
 ## 🖊 Citation
-If you find this project useful in your research, please consider cite:
+If you find AnyDressing useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
 
 ```
 @article{li2024anydressing,
