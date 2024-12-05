@@ -35,7 +35,7 @@ Moreover, <b>Garment-Enhanced Texture Learning (GTL)</b> strategy further enhanc
 
 
 ## 🌏 Our code is coming soon.
-<!-- Thank you all for your attention. I have been busy with my internship and the autumn recruitment recently. I expect to have some free time in October, and at the latest, I will make it open source in November. -->
+Thank you all for your attention. We are actively cleaning our code and will open source the inference code soon.
 
 
     
