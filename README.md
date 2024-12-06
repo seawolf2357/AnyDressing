@@ -47,8 +47,8 @@ If you find AnyDressing useful for your research, welcome to 🌟 this repo and 
 ```
 @article{li2024anydressing,
         title={AnyDressing: Customizable Multi-Garment Virtual Dressing via Latent Diffusion Models},
-        author={Li, Xinghui and Sun, Qi Chao and Zhang, Pengze and Ye, Fulong and Liao, Zhichao and Feng, Wanquan and Zhao, Songtao and He, Qian},
-        journal={arXiv preprint arXiv:XXX},
+        author={Xinghui Li and Qi Chao Sun and Pengze Zhang and Fulong Ye and Zhichao Liao and Wanquan Feng and Songtao Zhao and Qian He},
+        journal={arXiv preprint arXiv:2412.04146},
         year={2024}
 }
 ```
